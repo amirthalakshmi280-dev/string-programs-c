@@ -46,3 +46,5 @@ int main() {
 
     return 0;
 }
+Enter a string: babad
+Longest Palindromic Substring: bab
